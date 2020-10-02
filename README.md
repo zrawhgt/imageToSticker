@@ -1,96 +1,30 @@
-<div align="center">
- 
-# Whatsapp Bot - sticker creator
-[![Codefactor](https://www.codefactor.io/repository/github/yogasakti/imagetosticker/badge)](https://www.codefactor.io/repository/github/yogasakti/imagetosticker)
-<details>
- <summary>🥟 Help me!</summary>
+# hello-express
 
- [Saweria](https://saweria.co/donate/yogasakti)
- 
- [Trakteer](https://trakteer.id/red-emperor)
- 
- [Paypal.me](https://paypal.me/yshputra)
- 
-</details>
-</div>
+A server that serves a webpage, its resources, and some data
 
 
+## Your Project
 
-## Features
+On the front-end,
 
-| Sticker Creator |                Feature           |
-| :-----------: | :--------------------------------: |
-|       ✅       | Send Photo with Caption          |
-|       ✅       | Reply A Photo                    |
-|       ✅       | Image Url                        |
-|       ✅       | Animated sticker using giphy url |
-|       https://bit.ly/3hmgD4R       | sticker with no background       |
-|       https://bit.ly/3hmgD4R       | sticker meme      |
+- Edit `views/index.html` to change the content of the webpage
+- `public/client.js` is the javacript that runs when you load the webpage
+- `public/style.css` is the styles for `views/index.html`
+- Drag in `assets`, like images or music, to add them to your project
 
+On the back-end,
 
-| Downloader |                     Feature                |
-| :------------: | :---------------------------------------------: |
-|       ✅        |   Tiktok Downloader (No WM & WM)              |
-|       ✅        |   Twitter Video Downloader                    |
-|       ✅        |   Facebook Video Downloader (SD & HD)         |
-|       ✅      |   Instagram Video Downloader                  |
+- your app starts at `server.js`
+- add frameworks and packages in `package.json`
+- safely store app secrets in `.env` (nobody can see this but you and people you invite)
+
+Click `Show` in the header to see your app live. Updates to your code will instantly deploy.
 
 
-| Other  |                     Feature                     |
-| :------------: | :---------------------------------------------: |
-|       ✅        |   Create Custom meme (top text & bottom text)  |
-|       ✅        |   Translate text (quote only)                  |
-|       ✅        |   check data on the spread of Covid-19 in certain locations|
-|       ✅        |   Check Shipping info (indonesia only)         |
-|      BETA        |   Anti Spam                                   |
+## Made by [Glitch](https://glitch.com/)
 
+**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
 
-| Grup Only  |                     Feature                     |
-| :------------: | :---------------------------------------------: |
-|       ✅        |   Promote User                  |
-|       ✅        |   Demote User                   |
-|       ✅        |   Kick User                     |
-|       ✅        |   Delete bot message            |
-|       https://bit.ly/3hmgD4R        |   Mention All User      |
+Find out more [about Glitch](https://glitch.com/about).
 
-## To-Do
- - Add More Feature
- - More refactoring
- 
----
-
-## Getting Started
-
-This project require NodeJS v12.
-
-### Install
-Clone this project
-
-```bash
-> git clone https://github.com/YogaSakti/imageToSticker.git
-> cd imageToSticker
-```
-
-Install the dependencies:
-
-```bash
-> npm install
-```
-
-### Usage
-1. run the Whatsapp bot
-
-```bash
-> npm start
-```
-
-after running it you need to scan the qr
-
-## Troubleshooting
-Make sure all the necessary dependencies are installed: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
-
-Fix Stuck on linux, install google chrome stable: 
-```bash
-> wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-> sudo apt install ./google-chrome-stable_current_amd64.deb
-```
+( ᵔ ᴥ ᵔ )
